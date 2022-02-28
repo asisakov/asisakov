@@ -19,8 +19,8 @@ My name is Aleksandr. I'm currently learning Computer Vision, especially GAN's.
 
 Here is a few links you can take a look at:
 
-### My CV:
-[Link](https://github.com/asisakov/CV/blob/master/CV_Isakov.pdf)
+%### My CV:
+%[Link](https://github.com/asisakov/CV/blob/master/CV_Isakov.pdf)
 
 ### Master's thesis project:
 [Peak load reduction using thermal energy storage in a HVAC system of a building](https://github.com/asisakov/Thesis)
